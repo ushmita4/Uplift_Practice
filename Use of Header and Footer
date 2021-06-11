@@ -1,0 +1,47 @@
+<DOCTYPEhtml >
+    <html>
+        <head>
+            <title>Day 2 Class Uplift</title>
+        </head>
+    <body>
+        <section>
+            <h1>Check the availability of fresh vegetables here at your nearest store.</h1>
+            <p>Do not worry about groceries. With us you can check the availability from the comfort of your home. Click on what you want, reserve it, pick it up and pay. No need to waste time in checking groceries for your home.
+            </p>
+        </section>
+        <section>
+            <h1>Potatoes</h1>
+            <p>Check for fresh potatoes <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Tomatoes</h1>
+            <p>Check for fresh tomatoes <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Lemons</h1>
+            <p>Check for fresh lemons <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Onion</h1>
+            <p>Check for fresh onion <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Garlic</h1>
+            <p>Check for fresh garlic <a href>here .</a></p>
+        </section>
+
+        <footer>
+            <p>Still have doubt. Feel Free to reach us. : 24X7</p>
+            <a href="Call : 9798387611">9798387611</a>
+        </footer>
+
+        <nav>
+            <a href="AboutUs.html">About Us</a>
+            <a href="Services.html">Services</a>
+            <a href="ListofStores.html">List of Stores</a>
+            <a href="Other Facilities.html">Other Facilities</a>
+
+        </nav>
+
+    </body>
+    </html>
